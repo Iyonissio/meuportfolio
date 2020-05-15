@@ -1,0 +1,5 @@
+<IfModule mode_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-if
+    RewriteRule ^([^\.]+)$ $1.html [NC,L]
+</IfModule>    

@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-valter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler"
+  },
+  "author": "Valter Moore",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.0"
+  }
+}
