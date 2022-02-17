@@ -1,176 +1,154 @@
-
-
-@media only screen and (max-width: 950px){
-    .mockup_img img{
+@media only screen and (max-width: 950px) {
+    .mockup_img img {
         width: 37rem;
     }
 }
 
-@media only screen and (max-width: 620px){
-    .heading-primary-main{
+@media only screen and (max-width: 620px) {
+    .heading-primary-main {
         font-size: 2.6rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.9rem;
     }
-
-    .mockup_img img{
+    .mockup_img img {
         width: 37rem;
     }
-    .heading_projecto_name{
+    .heading_projecto_name {
         font-size: 2.2rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.7rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 30rem !important;
     }
-
     /*NAV*/
-    .nav-link{
+    .nav-link {
         font-size: 1.7rem;
+    }
+    /* PROJECT */
+    .project-block {
+        display: block;
     }
 }
 
-@media only screen and (max-width: 540px){
-    .heading-primary-main{
+@media only screen and (max-width: 540px) {
+    .heading-primary-main {
         font-size: 2.5rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.9rem;
     }
-
-    .mockup_img img{
+    .mockup_img img {
         width: 35rem;
     }
-    .heading_projecto_name{
+    .heading_projecto_name {
         font-size: 2.2rem;
     }
 }
 
-@media only screen and (max-width: 500px){
-    .heading-primary-main{
+@media only screen and (max-width: 500px) {
+    .heading-primary-main {
         font-size: 2.4rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.9rem;
     }
-
-    .mockup_img img{
+    .mockup_img img {
         width: 33rem;
     }
-    .heading_projecto_name{
+    .heading_projecto_name {
         font-size: 2rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.7rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 30rem !important;
     }
 }
 
-@media only screen and (max-width: 450px){
-    .heading-primary-main{
+@media only screen and (max-width: 450px) {
+    .heading-primary-main {
         font-size: 2.4rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.9rem;
     }
-
-    .mockup_img img{
+    .mockup_img img {
         width: 30rem;
     }
-    .heading_projecto_name{
+    .heading_projecto_name {
         font-size: 2rem;
     }
 }
 
-@media only screen and (max-width: 429px){
-    .heading-primary-main{
+@media only screen and (max-width: 429px) {
+    .heading-primary-main {
         font-size: 2.4rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.9rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.7rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 29rem !important;
     }
 }
 
-@media only screen and (max-width: 400px){
-    .heading-primary-main{
+@media only screen and (max-width: 400px) {
+    .heading-primary-main {
         font-size: 2.3rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.8rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.7rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 28rem !important;
     }
 }
 
-
-@media only screen and (max-width: 381px){
-    
-    .heading-primary-main{
+@media only screen and (max-width: 381px) {
+    .heading-primary-main {
         font-size: 2.1rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.7rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.7rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 27rem !important;
     }
 }
 
-@media only screen and (max-width: 367px){
-    
-
-    .heading-primary-main{
+@media only screen and (max-width: 367px) {
+    .heading-primary-main {
         font-size: 2.1rem;
     }
-
-    .heading-primary-sub{
+    .heading-primary-sub {
         font-size: 1.7rem;
     }
-
-    .heading-precos{
+    .heading-precos {
         font-size: 1.6rem;
         width: 100%;
     }
-    .plano_card_cont{
+    .plano_card_cont {
         width: 26rem !important;
     }
-
-    .contac_header{
+    .contac_header {
         font-size: 2.5rem;
-     }
+    }
 }
